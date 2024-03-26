@@ -1,0 +1,59 @@
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\bin\Debug\EFNMR.exe.config
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\bin\Debug\EFNMR.exe
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\bin\Debug\EFNMR.pdb
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\bin\Debug\NationalInstruments.Common.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\bin\Debug\NationalInstruments.DAQmx.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\bin\Debug\OxyPlot.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\bin\Debug\OxyPlot.WindowsForms.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\bin\Debug\OxyPlot.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\bin\Debug\OxyPlot.WindowsForms.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\obj\Debug\EFNMR.csproj.AssemblyReference.cache
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\obj\Debug\EFNMR.csproj.SuggestedBindingRedirects.cache
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\obj\Debug\EFNMR.Form1.resources
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\obj\Debug\EFNMR.Properties.Resources.resources
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\obj\Debug\EFNMR.csproj.GenerateResource.cache
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\obj\Debug\EFNMR.csproj.CoreCompileInputs.cache
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\obj\Debug\EFNMR.csproj.CopyComplete
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\obj\Debug\EFNMR.exe
+F:\OneDriveUni\OneDrive - Universidad de Almeria\AA CLASES DE UNIVERSIDAD\9999 TFG\2022_2023_EMILIO LOPEZ LAO\Codigo\VS\EFNMR\EFNMR\obj\Debug\EFNMR.pdb
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\obj\Debug\EFNMR.csproj.AssemblyReference.cache
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\obj\Debug\EFNMR.csproj.SuggestedBindingRedirects.cache
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\obj\Debug\EFNMR.Form1.resources
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\obj\Debug\EFNMR.Properties.Resources.resources
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\obj\Debug\EFNMR.csproj.GenerateResource.cache
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\obj\Debug\EFNMR.csproj.CoreCompileInputs.cache
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\EFNMR.exe.config
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\EFNMR.exe
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\EFNMR.pdb
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\FftSharp.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\NationalInstruments.Common.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\NationalInstruments.DAQmx.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\OxyPlot.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\OxyPlot.WindowsForms.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\ScottPlot.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\ScottPlot.WinForms.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.Buffers.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.Drawing.Common.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.Memory.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.Numerics.Vectors.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.ValueTuple.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\FftSharp.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\OxyPlot.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\OxyPlot.WindowsForms.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\ScottPlot.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.Buffers.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.Memory.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.Numerics.Vectors.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\System.ValueTuple.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\obj\Debug\EFNMR.exe.config
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\obj\Debug\EFNMR.csproj.CopyComplete
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\obj\Debug\EFNMR.exe
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\obj\Debug\EFNMR.pdb
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\MathNet.Filtering.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\MathNet.Numerics.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\MathNet.Filtering.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\MathNet.Numerics.xml
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\Newtonsoft.Json.dll
+F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\Newtonsoft.Json.xml
