@@ -1,0 +1,35 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Cortex Debug (Upload)",
+      "cwd": "${workspaceRoot}",
+      "executable": "./Tmp/Firmware",
+      "request": "launch",
+      "type": "cortex-debug",
+      "servertype": "openocd",
+      "interface": "swd",
+      "cpu": "cortex-m4",
+      "svdFile": "${workspaceRoot}/CMSIS/stm32f373.svd",
+      "runToMain": true,
+      "showDevDebugOutput": true,
+      "gdbPath": "/usr/bin/gdb-multiarch",
+      "openOCDLaunchCommands": [
+        "program ./Tmp/Firmware"
+      ],
+      "preLaunchCommands": [
+        "file ./Tmp/Firmware",
+        "load"
+      ],
+      "configFiles": [
+        "/usr/share/openocd/scripts/interface/stlink.cfg",
+        "/usr/share/openocd/scripts/target/stm32f3x.cfg"
+      ]
+    }
+
+
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "string.h": "c",
+    "TMP.C": "cpp",
+    "stdlib.h": "c",
+    "main.h": "c",
+    "compare": "c",
+    "stdint.h": "c"
+  },
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/home/edu/Proyectos/openZmeter_private/Hardware/DeviceV2_03/Firmware/Tmp",
+      "binaryPath": "/home/edu/Proyectos/openZmeter_private/Hardware/DeviceV2_03/Firmware/Tmp/Firmware",
+      "binaryArgs": []
+    }
+  ],
+  "cortex-debug.variableUseNaturalFormat": false
+}

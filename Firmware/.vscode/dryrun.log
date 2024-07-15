@@ -1,0 +1,63 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/edu/Proyectos/openZmeter_private/Hardware/DeviceV2_03/Firmware'
+ 
+mkdir -p Tmp/./
+echo "Building" Tmp/./TEMP.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c TEMP.c -o Tmp/./TEMP.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./PWR.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c PWR.c -o Tmp/./PWR.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./DS1307.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c DS1307.c -o Tmp/./DS1307.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./Startup.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c Startup.c -o Tmp/./Startup.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./RTC.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c RTC.c -o Tmp/./RTC.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./DBG.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c DBG.c -o Tmp/./DBG.c.o
+ 
+mkdir -p Tmp/./
+echo "Building" Tmp/./BTN.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c BTN.c -o Tmp/./BTN.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./Main.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c Main.c -o Tmp/./Main.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./SSR.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c SSR.c -o Tmp/./SSR.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./SND.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c SND.c -o Tmp/./SND.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./Utils.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c Utils.c -o Tmp/./Utils.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./LCD.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c LCD.c -o Tmp/./LCD.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./USB.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c USB.c -o Tmp/./USB.c.o
+ 
+mkdir -p Tmp/./
+echo "Building" Tmp/./Buffer.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c Buffer.c -o Tmp/./Buffer.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./ADC.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c ADC.c -o Tmp/./ADC.c.o
+mkdir -p Tmp/./
+echo "Building" Tmp/./GPS.c.o
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS -c GPS.c -o Tmp/./GPS.c.o
+ 
+echo "Linking target" 
+arm-none-eabi-gcc -D_GNU_SOURCE -ggdb -Wall -O3 -std=c99 -flto -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -fsingle-precision-constant -fno-exceptions -specs=nosys.specs -I CMSIS Tmp/./TEMP.c.o Tmp/./PWR.c.o Tmp/./DS1307.c.o Tmp/./Startup.c.o Tmp/./RTC.c.o Tmp/./DBG.c.o Tmp/./BTN.c.o Tmp/./Main.c.o Tmp/./SSR.c.o Tmp/./SND.c.o Tmp/./Utils.c.o Tmp/./LCD.c.o Tmp/./USB.c.o Tmp/./Buffer.c.o Tmp/./ADC.c.o Tmp/./GPS.c.o -o Tmp/Firmware -g -T CMSIS/stm32f303xb.ld -flto -nostdlib -lc -lgcc -Wl,-Map=Tmp/Firmware.map
+arm-none-eabi-size -A Tmp/Firmware
+arm-none-eabi-objdump -S -x Tmp/Firmware > Tmp/Firmware.lst
+arm-none-eabi-objcopy -O binary Tmp/Firmware Tmp/Firmware.bin
+arm-none-eabi-objcopy -O ihex Tmp/Firmware Tmp/Firmware.hex
+ 
+make: Leaving directory '/home/edu/Proyectos/openZmeter_private/Hardware/DeviceV2_03/Firmware'
+ 
