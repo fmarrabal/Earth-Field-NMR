@@ -57,3 +57,41 @@ F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\MathNet.F
 F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\MathNet.Numerics.xml
 F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\Newtonsoft.Json.dll
 F:\OneDriveUni\OneDrive - Universidad de Almeria\EFNMR\EFNMR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\EFNMR.exe.config
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\EFNMR.exe
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\EFNMR.pdb
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\FftSharp.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\MathNet.Filtering.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\MathNet.Numerics.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\OxyPlot.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\ScottPlot.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\FftSharp.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\MathNet.Filtering.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\MathNet.Numerics.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\OxyPlot.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\ScottPlot.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\obj\Debug\EFNMR.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\obj\Debug\EFNMR.Form1.resources
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\obj\Debug\EFNMR.Properties.Resources.resources
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\obj\Debug\EFNMR.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\obj\Debug\EFNMR.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\obj\Debug\EFNMR.csproj.Up2Date
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\obj\Debug\EFNMR.exe
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\obj\Debug\EFNMR.pdb
+C:\Users\User\source\repos\Earth-Field-NMR\EFNMR\bin\Debug\LibUsbDotNet.dll

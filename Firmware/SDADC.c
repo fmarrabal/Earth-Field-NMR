@@ -7,10 +7,10 @@ void DMA2_CH3_ISR() {                                                           
   uint16_t *Ptr;                                                                //
   if((DMA2->ISR & DMA_ISR_TCIF3) != 0) {                                        //Prepare Trasnfer complete
     DMA2->IFCR |= DMA_IFCR_CTCIF3;                                              //Interrupt clear
-    Ptr = &Buffer[0];                                                           //Init pointer
+    Ptr = &Buffer[32];                                                          //Init pointer
   } else {                                                                      //Prepare half transfer
     DMA2->IFCR |= DMA_IFCR_CHTIF3;                                              //Interrupt clear
-    Ptr = &Buffer[32];                                                          //Init pointer
+    Ptr = &Buffer[0];                                                           //Init pointer
   }                                                                             //
   if(Samples == 0) {                                                            //If no more samples
     SDADC1->CR2 &= ~SDADC_CR2_RCONT;                                            //Disable SDADC
