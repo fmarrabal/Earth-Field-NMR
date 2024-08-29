@@ -75,7 +75,33 @@ To use the EFNMR spectrometer, follow these steps:
 
 ## Acknowledgements
 
-This project was developed at the University of Almeria, Spain. Special thanks to the contributors who made this project possible.
+This project was developed at the University of Almeria, Spain. Also, The research received generous funding from the following sources:
+- the State Research Agency of the Spanish Ministry of Science and Innovation (PID2021-126445OB-I00)
+- the Gobierno de España MCIN/AEI/10.13039 /501100011033
+- European Union “Next Generation EU”/PRTR (PDC2021-121248-I00, PLEC2021- 007774 and CPP2022-009967).
+
+We extend our heartfelt gratitude to all the contributors who played a vital role in making this project a reality.
+
+## Reference
+
+Please cite this project using the following BibTeX entry:
+
+@article{Viciana2024,
+author = {Viciana, Eduardo and Mart{\'{i}}nez-Lao, Juan Antonio and L{\'{o}}pez-Lao, Emilio and Fern{\'{a}}ndez, Ignacio and Arrabal-Campos, Francisco Manuel},
+doi = {10.3390/s24175537},
+file = {:C\:/Users/fmarr/Documents/Mendeley Desktop/Paving et al. - 2024 - Development of an Earth-Field Nuclear Magnetic Resonance Nuclear Magnetic Resonance Technology(2).pdf:pdf},
+issn = {1424-8220},
+journal = {Sensors},
+keywords = {earth,efnmr,nmr spectrometer,s field nmr},
+month = {aug},
+number = {17},
+pages = {5537},
+title = {{Development of an Earth-Field Nuclear Magnetic Resonance Spectrometer: Paving the Way for AI-Enhanced Low-Field Nuclear Magnetic Resonance Technology}},
+url = {https://www.mdpi.com/1424-8220/24/17/5537},
+volume = {24},
+year = {2024}
+}
+
 
 ## Contact
 
