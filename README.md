@@ -89,7 +89,6 @@ Please cite this project using the following BibTeX entry:
 @article{Viciana2024,
 author = {Viciana, Eduardo and Mart{\'{i}}nez-Lao, Juan Antonio and L{\'{o}}pez-Lao, Emilio and Fern{\'{a}}ndez, Ignacio and Arrabal-Campos, Francisco Manuel},
 doi = {10.3390/s24175537},
-file = {:C\:/Users/fmarr/Documents/Mendeley Desktop/Paving et al. - 2024 - Development of an Earth-Field Nuclear Magnetic Resonance Nuclear Magnetic Resonance Technology(2).pdf:pdf},
 issn = {1424-8220},
 journal = {Sensors},
 keywords = {earth,efnmr,nmr spectrometer,s field nmr},
